@@ -76,7 +76,7 @@ a message to Tweet on the text files.
 In the folder that appears below, and put
 a text file in, will be posted automatically.
 
-  ${project-dir}/date/inbox
+  ${project-dir}/data/inbox
 
 Put the text file in this folder.
 
