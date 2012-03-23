@@ -54,6 +54,12 @@ You will need to compile this project.
 -----------------------------------------------------------
 * How to run on the local?
 
+You will need to make the data directory.
+  > cd {path to this README.txt directory!}
+  > mkdir data
+  > cd data
+  > mkdir inbox
+
 To run the .war application by jetty plugin.
   > cd {path to this README.txt directory!}
   > mvn jetty:run
