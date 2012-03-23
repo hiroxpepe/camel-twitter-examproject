@@ -63,7 +63,7 @@ A server be run on http://localhost:8081/
 You can access to http://localhost:8081/ on your web browser.
 But, web browser access is not necessary in this case.
 
-To stop the server  hit ctrl + c 
+To stop the server hit ctrl + c 
 
 The server must keep running!
 
