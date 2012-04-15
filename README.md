@@ -1,15 +1,14 @@
 # camel-twitter-examproject (c) examproject
 
 ### What's this?
-This project shows how to work with
-
-    [Apache Camel Twitter](http://camel.apache.org/twitter.html)  
-    [Spring MVC](http://static.springsource.org/spring/docs/3.1.x/spring-framework-reference/html/mvc.html)  
-    
+This project shows how to work with  
+*[Apache Camel Twitter](http://camel.apache.org/twitter.html)  
+*[Spring MVC](http://static.springsource.org/spring/docs/3.1.x/spring-framework-reference/html/mvc.html)  
 and how to configure.
 
 ### How to configure your twitter account?
-First, you should read here. [Apache Camel Twitter](http://camel.apache.org/twitter.html) You will need a create an application for the Twitter. [Twitter Create an application](https://dev.twitter.com/apps/new)  
+First, you should read here. [Apache Camel Twitter](http://camel.apache.org/twitter.html)  
+You will need a create an application for the Twitter. [Twitter Create an application](https://dev.twitter.com/apps/new)  
 
 The configuration is required of your twitter account.
 
@@ -45,9 +44,9 @@ To run the .war application by jetty plugin at your command line.
     > cd { path to this README.md directory. }
     > mvn jetty:run
 
-A server be run on http://localhost:8081/
-
-You can access to http://localhost:8081/ on your web browser. but, web browser access is not necessary in this case.
+A server be run on http://localhost:8081/  
+You can access to http://localhost:8081/ on your web browser.  
+But, web browser access is not necessary in this case.
 
 To stop the server hit ctrl + c  
 The server must keep running!
