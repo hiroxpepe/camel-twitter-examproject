@@ -1,11 +1,13 @@
 # camel-twitter-examproject (c) by examproject
 
+***
 ### What's this?
 This project shows how to work with  
-* [Apache Camel Twitter](http://camel.apache.org/twitter.html)  
-* [Spring MVC](http://static.springsource.org/spring/docs/3.1.x/spring-framework-reference/html/mvc.html)  
+    * [Apache Camel Twitter](http://camel.apache.org/twitter.html)  
+    * [Spring MVC](http://static.springsource.org/spring/docs/3.1.x/spring-framework-reference/html/mvc.html)  
 and how to configure.
 
+***
 ### How to configure your twitter account?
 First, you should read here. [Apache Camel Twitter](http://camel.apache.org/twitter.html)  
 You will need a create an application for the Twitter. [Twitter Create an application](https://dev.twitter.com/apps/new)  
@@ -21,6 +23,7 @@ Please change to your twitter account of the [change-this] of this descriptions.
 
     <to uri="twitter://timeline/user?consumerKey=change-this&amp;consumerSecret=change-this&amp;accessToken=change-this&amp;accessTokenSecret=change-this"/>
 
+***
 ### How to build at the local?
 
 You will need to get [Apache Maven](http://maven.apache.org/).
@@ -31,6 +34,7 @@ You will need to compile this project at your command line.
     > mvn compile
     > mvn install
 
+***
 ### How to run at the local?
 You will need to make the data directory at your command line.
 
@@ -51,6 +55,7 @@ But, web browser access is not necessary in this case.
 To stop the server hit ctrl + c  
 The server must keep running!
 
+***
 ### How to do to post for the Twitter?
 
 You will need to make a text file, and write a message to Tweet on the text files. In the folder that appears below, and put a text file in, will be posted automatically.
@@ -59,9 +64,11 @@ You will need to make a text file, and write a message to Tweet on the text file
 
 Put the text file in this folder.
 
+***
 ### This project is hosted on GitHub.
 [camel-twitter-examproject](https://github.com/hiroxpepe/camel-twitter-examproject)
 
+***
 ### Author
 [hiroxpepe](mailto:hiroxpepe@gmail.com)
 
