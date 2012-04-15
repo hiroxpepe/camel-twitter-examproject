@@ -1,9 +1,9 @@
-# camel-twitter-examproject (c) examproject
+# camel-twitter-examproject (c) by examproject
 
 ### What's this?
 This project shows how to work with  
-*[Apache Camel Twitter](http://camel.apache.org/twitter.html)  
-*[Spring MVC](http://static.springsource.org/spring/docs/3.1.x/spring-framework-reference/html/mvc.html)  
+* [Apache Camel Twitter](http://camel.apache.org/twitter.html)  
+* [Spring MVC](http://static.springsource.org/spring/docs/3.1.x/spring-framework-reference/html/mvc.html)  
 and how to configure.
 
 ### How to configure your twitter account?
